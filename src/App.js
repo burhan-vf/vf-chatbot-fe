@@ -29,7 +29,7 @@ function App() {
         className="text-center"
         style={{ fontSize: "48px", marginTop: "50px" }}
       >
-        Custom ChatGPT
+        HR Chatbot
       </h3>
       <form style={{ marginTop: "80px" }}>
         <textarea
